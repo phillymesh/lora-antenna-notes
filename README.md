@@ -18,7 +18,7 @@ I personally like to use antennas with < 2.0 SWR.
 
 | Brand | Model | Gain (dBi) | Antenna Dimensions | Price | SWR | Suggested For Use? (Y/N) |
 | --- | --- | --- | --- | --- | --- | --- |
-| ALFA | [ARS-9096RP](https://www.alfa.com.tw/products/ars-9096rp?variant=39338137190472) | 5 | 431.8mm (L) x 12.954mm (W) | $12.00 | [1.3046](images/ALFA-ARS-9096RP.png) | ✔️ Yes |
+| ALFA | [ARS-9096RP](https://www.alfa.com.tw/products/ars-9096rp?variant=39338137190472) | 5 | 431.8mm (L) x 12.954mm (W) | $12.00 | [1.364](images/ALFA-ARS-9096RP.png) | ✔️ Yes |
 | ALFA | [ARS-915P](https://www.alfa.com.tw/products/ars-915p?variant=36473964855368) | 2 | 195mm (L) x 13.3mm (W) | $11.97 | [1.295](images/ALFA-ARS-915P.png) | ✔️ Yes |
 | Linx | [ANT-916-CW-HWR-SMA](https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=ANT-916-CW-HWR-ccc&DocType=Data+Sheet&DocLang=English&DocFormat=pdf&PartCntxt=ANT-916-CW-HWR-SMA) | 1.2 | 142mm (L) x 10mm (W) | $12.55 | [1.362](images/LINX-ANT-916-CW-HWR-SMA.png) | ✔️ Yes |
 | Linx | [ANT-916-CW-RCL-SMA](https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=ant-916-cw-rcl-ccc&DocType=Data+Sheet&DocLang=English&DocFormat=pdf&PartCntxt=ANT-916-CW-RCL-SMAA) | 4.2 | 97.7mm (L) x 18.6mm (W) | $7.87 | [1.988](images/LINX-ANT-916-CW-RCL-SMA.png) | ✔️ Yes |
