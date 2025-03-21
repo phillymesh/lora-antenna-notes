@@ -32,4 +32,6 @@ I personally like to use antennas with < 2.0 SWR.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ALFA | [AOA-8696-3ACM](https://www.alfa.com.tw/products/aoa-8696-3acm) | 3 | Omni | 600mm (L) x 20mm (W) | $28.97 | [1.416](images/ALFA-AOA-915-5ACM.png) | ✔️ Yes |
 | ALFA | [AOA-915-5ACM](https://www.alfa.com.tw/products/aoa-915-5acm?variant=36473963020360) | 5 | Omni | 182mm (L) x 20mm (W) | $16.97 | [1.268](images/ALFA-AOA-8686-3ACM.png) | ✔️ Yes |
-| Rokland | [698-960MHz](https://rabbit-labs.com/product/cc1101-modules-compatible-antennas-by-rabbit-labs/?v=0b3b97fa6688) | 4 | Omni | 342.9mm (L) x 25.4mm (W) | $19.97 | [1.509](images/ROKLAND-698-960-4DBI.png) | ✔️ Yes |
+| Rokland | [4 dBi 698-960MHz](https://store.rokland.com/products/4-dbi-helium-hotspot-fiberglass-outdoor-antenna-bracket-mount-for-rak-bobcat-nebra-sensecap) | 4 | Omni | 342.9mm (L) x 25.4mm (W) | $19.97 | [1.509](images/ROKLAND-698-960-4DBI.png) | ✔️ Yes |
+| Rokland | [5.8 dBi 915MHz](https://store.rokland.com/products/5-8-dbi-n-male-omni-outdoor-915-mhz-antenna-large-profile-32-height-for-helium-rak-miner-2-nebra-indoor-bobcat) | 5.8 | Omni | 787.4mm (L) x 25.4mm (W) | $39.97 | 1.25 | ✔️ Yes |
+
