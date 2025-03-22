@@ -3,7 +3,9 @@ Antenna tests for LoRa radios
 
 Antennas are tested for SWR with a calibrated [NanoVNA](https://meshmap.net/) on a wooden table approximately 36 inches off the ground to reduce reflections and ~24 inches from any metal objects. These are not incredibly scientific testing practices, and the NanoVNA is not a professional piece of test equipment, but the testing results here should be reasonable enough for hobbyists to make decisions and compare/contrast antennas and people have reported the NanoVNA to be within 95-98% accurate.
 
-We really concert outselves here with good SWR (Standing Wave Ratio) which essentially means how efficient the transmission is. The more efficient, the more power is actually being radiated and the further the signal goes. An ideal-but-not-obtainable SWR is 1.0, which means all the power is effectively radiated efficiently. This is really considered a theoretical case and only used for reference. Practical SWRs are as follows:
+## SWR
+
+We really concern outselves here with good SWR (Standing Wave Ratio) which essentially means how efficient the transmission is. The more efficient, the more power is actually being radiated and the further the signal goes. An ideal-but-not-obtainable SWR is 1.0, which means all the power is effectively radiated efficiently. This is really considered a theoretical case and only used for reference. Practical SWRs are as follows:
 
 * SWR < 1.5 Great
 * SWR < 2.0 Good
@@ -11,6 +13,18 @@ We really concert outselves here with good SWR (Standing Wave Ratio) which essen
 * SWR < 3 AVOID (could cause radio damage)
 
 I personally like to use antennas with < 2.0 SWR.
+
+## Gain
+
+A lot of people assume the higher gain of an antenna the better, but this is not true. To put it into simple terms:
+
+* A gain of 1 dBi is a bit like a sphere around the antenna, with the signal radiating equally in every direction.
+* A gain of 3 dBi has the signal coming out at a 120 degree angle, creating a bit of a donut shape.
+* A gain of 6 dBi has the signal coming out at a 60 degree angle, creating slightly flatter but wider donut
+* A gain of 9 dbI has the signal coming out at a 30 degree angle, creating an even flatter and wider donut
+* Higher gains often cause really strange and undesirable radiation patterns, having lobes shoot off in strange directions.
+
+The tradeoff is that lower dBi antennas will radiate power in more directions but at an overall lower distance. 3 dBi antennas may be good for a dense city while 6 dBi antennas may be good for a more suburban setting, and 9 dBi antennas are better for a very flat environment.
 
 ## 915MHz Test Results Summary
 
