@@ -40,12 +40,13 @@ The tradeoff is that lower dBi antennas will radiate power in more directions bu
 | Rabbit Labs | [HG 915mhz](https://rabbit-labs.com/product/cc1101-modules-compatible-antennas-by-rabbit-labs/?v=0b3b97fa6688) | 3.5 | 199.898mm (L) x 12.7mm (W) | [$6.25](https://www.amazon.com/Generic-Rabbit-Labs-Connector-Compatible-Meshtastic/dp/B0D19JJBKZ/) | [1.673](images/RABBIT-LABS-HG915.png) | ✔️ Yes |
 | Unknown | [Station G2 Antenna](https://shop.uniteng.com/product/meshtastic-mesh-device-station-edition/) | ??? | 195mm (L) x 13.3mm (W) | N/A | [1.872](images/STATION_G2_GENERIC.png) | ✔️ Yes |
 
-### Fixed (Base) Antennas
+### Fixed (Base) Antennas 
 
 | Brand | Model | Gain (dBi) | Pattern | Antenna Dimensions | Price | SWR | Suggested For Use? (Y/N) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ALFA | [AOA-8696-3ACM](https://www.alfa.com.tw/products/aoa-8696-3acm) | 3 | Omni | 600mm (L) x 20mm (W) | [$28.97](https://store.rokland.com/products/3-dbi-n-male-alfa-fiberglass-outdoor-antenna-bracket-mount-for-usa-eu-868-960-mhz-rak-bobcat-sensecap?srsltid=AfmBOoqnaHDhYku-znnVuunnKX8-50KOt0wpSsPHS-IqIgA8Jjw3lHoe) | [1.416](images/ALFA-AOA-915-5ACM.png) | ✔️ Yes |
 | ALFA | [AOA-915-5ACM](https://www.alfa.com.tw/products/aoa-915-5acm?variant=36473963020360) | 5 | Omni | 182mm (L) x 20mm (W) | [$16.97](https://store.rokland.com/products/alfa-aoa-915-5acm-5-dbi-omni-outdoor-915mhz-802-11ah-mini-antenna-for-lora-halow-application) | [1.268](images/ALFA-AOA-8686-3ACM.png) | ✔️ Yes |
+| HeliumDeploy | [5.8dBi](https://www.amazon.com/-/he/dp/B09XWLWSW3) | 5.8 | Omni | 762mm (L) x 25.4mm (W) | [$40.00](https://www.amazon.com/-/he/dp/B09XWLWSW3) | [1.354](images/HELIUMDEPLOY-5_8.png) | ✔️ Yes |
 | Rokland | [4 dBi 698-960MHz](https://store.rokland.com/products/4-dbi-helium-hotspot-fiberglass-outdoor-antenna-bracket-mount-for-rak-bobcat-nebra-sensecap) | 4 | Omni | 342.9mm (L) x 25.4mm (W) | [$19.97](https://store.rokland.com/products/4-dbi-helium-hotspot-fiberglass-outdoor-antenna-bracket-mount-for-rak-bobcat-nebra-sensecap) | [1.509](images/ROKLAND-698-960-4DBI.png) | ✔️ Yes |
 | Rokland | [5.8 dBi 915MHz](https://store.rokland.com/products/5-8-dbi-n-male-omni-outdoor-915-mhz-antenna-large-profile-32-height-for-helium-rak-miner-2-nebra-indoor-bobcat) | 5.8 | Omni | 787.4mm (L) x 25.4mm (W) | [$39.97](https://store.rokland.com/products/5-8-dbi-n-male-omni-outdoor-915-mhz-antenna-large-profile-32-height-for-helium-rak-miner-2-nebra-indoor-bobcat) | 1.25 | ✔️ Yes |
 
